@@ -1,8 +1,7 @@
 <!--### E aí, tudo bem, Seja bem vindo ao meu perfíl 👋-->
 ### Hey there, How are you, Welcome to my profile !!👋
 
-
-**LucasMathW/LucasMathW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**LucasMathW/LucasMathW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Here are some ideas to get you started getting to know me better:
 
