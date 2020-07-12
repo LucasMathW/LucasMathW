@@ -3,7 +3,7 @@
 
 <!--**LucasMathW/LucasMathW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Here are some ideas to get you started getting to know me better:
+### Here are some facts about me:
 
 - 🌱 I’m currently learning ReactJS, ReactNative, Node.JS
 - 👯 I’m looking to collaborate on projects related to web and mobile development with React and NodeJS
