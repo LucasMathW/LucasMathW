@@ -5,8 +5,8 @@
 
 ### Here are some facts about me:
 
-- 🌱 I’m currently learning ReactJS, ReactNative and Node.JS
-- 👯 I’m looking to collaborate on projects related to web and mobile development with React and NodeJS
+- 🌱 I’m currently learning Node.JS.
+- 👯 I’m looking to collaborate on projects related to web with NodeJS.
 - 💬 Ask me about what you want!!
 - 📫 How to reach me: linkedin profile (https://www.linkedin.com/in/lucas-matheus-marques-de-alencar-11843b176/), e-mail(lucas.alencar107@gmail.com).
 
